@@ -1,5 +1,5 @@
 window.__RUNTIME_CONFIG__ = {
-  "VITE_ORDERLY_BROKER_ID": "demo",
+  "VITE_ORDERLY_BROKER_ID": "imfromwaco",
   "VITE_ORDERLY_BROKER_NAME": "Ximi",
   "VITE_BROKER_EOA_ADDRESS": "0x113ad3df3fa24c6bf23eee571d3f5dae997bf976",
   "VITE_DISABLE_MAINNET": "false",
@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@imfromwaco",
   "VITE_SEO_THEME_COLOR": "#c83fee",
   "VITE_SEO_KEYWORDS": "Ximi, cute, pink, gummy, yummy, yum, money, sleep, comfort",
-  "VITE_AVAILABLE_LANGUAGES": "",
+  "VITE_AVAILABLE_LANGUAGES": "en",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#8a31e3\",\"downColor\":\"#cc2e7a\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#131722\"}",

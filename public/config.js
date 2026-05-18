@@ -33,7 +33,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_SEO_TWITTER_HANDLE": "@imfromwaco",
   "VITE_SEO_THEME_COLOR": "#c83fee",
   "VITE_SEO_KEYWORDS": "Ximi, cute, pink, gummy, yummy, yum, money, sleep, comfort",
-  "VITE_AVAILABLE_LANGUAGES": "en",
+  "VITE_AVAILABLE_LANGUAGES": "en,zh,es",
   "VITE_USE_CUSTOM_PNL_POSTERS": "true",
   "VITE_CUSTOM_PNL_POSTER_COUNT": "8",
   "VITE_TRADING_VIEW_COLOR_CONFIG": "{\"upColor\":\"#8a31e3\",\"downColor\":\"#cc2e7a\",\"pnlUpColor\":\"#00C896\",\"pnlDownColor\":\"#F7525F\",\"chartBG\":\"#131722\"}",

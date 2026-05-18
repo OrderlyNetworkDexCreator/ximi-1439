@@ -1,6 +1,6 @@
 :root {
   --oui-font-family: 'Fira Sans', sans-serif;
-  --oui-font-size-base: 16.5px;
+  --oui-font-size-base: 18px;
 
   /* colors */
   --oui-color-primary: 241 106 205;
@@ -96,7 +96,7 @@
 
 html, body {
   font-family: 'Fira Sans', sans-serif !important;
-  font-size: 16.5px !important;
+  font-size: 18px !important;
 }
 
 .orderly-app-container,
